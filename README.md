@@ -1,4 +1,4 @@
-# LinkedIn Schema Project
+# Case Study: Schema Design for LinkedIn
 
 ## Overview
 
